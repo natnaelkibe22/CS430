@@ -1,0 +1,15 @@
+Name: Natnael Kibe
+
+In order to create my program, these are the thought process I used. 
+-> First, I read on the example file P3.java from the course page and it gave me a hint on how to solve the homework. 
+-> Second, I read the homework pdf file and everything was not clear at first but then when I saw the code of P3.java again and it became clear. 
+-> then, I started the code by making the condition for the -1 case or if the student is new which i used the -1 constraint.
+-> then, I used the jdbc code to enroll a new student into the system. I would say this part was the easier part and it gave me hint on how to solve the rest of 
+the homework. 
+-> Then, I started the rest of the code and I used my own creativity.
+-> I will say using scanner java api was a pain. It was very hard and tedious debugging, trying to make scanner api to work. I used java for over three years and it was the 
+most easiest but costed me more time of searching cause I thought I was right. 
+-> the code still have problems!!
+-> there is still a problem between jdbc and my java code that I didnt have time to fix it at deadline. 
+-> But I will say the logic of the code works despite it might have semantic errors but I will say the code is straight forward to understand. 
+-> My program also showed teh ability to change the database records to some extent but It still have some exception errors. 
